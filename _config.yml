@@ -1,6 +1,6 @@
 # Site settings
 title: 再思之道 # 你的博客名字，可以定义修订
-header-img: "img/BG.jpg"
+header-img: "img/BG.png"
 tagline: "cn"  
 description: "甄士隐去 贾雨村言"  # 一句话描述你的博客
 baseurl: ""
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "BrotherIII" # 你的名字
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/BG.png" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :

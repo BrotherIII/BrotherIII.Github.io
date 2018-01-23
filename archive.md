@@ -2,7 +2,7 @@
 layout: page
 title: "Archive"
 description: "文章归档"
-header-img: "img/BG.jpg"
+header-img: "img/BG.png"
 ---
 
 
