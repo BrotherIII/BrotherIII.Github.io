@@ -1,10 +1,10 @@
 # Site settings
 title: 再思之道 # 你的博客名字，可以定义修订
 header-img: "img/BG.png"
-tagline: "cn"  
+tagline: "cn"
 description: "甄士隐去 贾雨村言"  # 一句话描述你的博客
 baseurl: ""
-url: "http://cnfeat"  # 此处填写你的博客地址 
+url: "https://brotheriii.com"  # 此处填写你的博客地址
 
 # About/contact
 owner: 
